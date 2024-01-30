@@ -1,0 +1,14 @@
+#index { width: 215px; }
+#exhibit { margin-left: 215px; }
+#index, #exhibit { font-size: 15px; }
+#index, #exhibit { line-height: 20px; }
+.container { padding-top: 27px; }
+.container { padding-left: 27px; }
+a:link { color: #000000; }
+a:visited { color: #000000; }
+a:hover { color: #000000; }
+#index, #exhibit { color: #000; }
+#index, #exhibit { font-family: Garamond, Times, Times Roman, serif; }
+#index ul.section span.section_title, #index ul.section span.section_title a, #index ul.section span.subsection_title, #index ul.section span.subsection_title a { font-size: 13px; }
+#img-container .spacer { height: 18px; }
+#img-container .captioning { margin-top: 0px; }

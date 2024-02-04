@@ -1,8 +1,9 @@
 
-#index { 
+#index { width: 195px; }
+/* #index { 
     width: 200px; 
     margin-left: 0px !important;
-}
+} */
 
 #index li {
     margin-left: 0px !important;
